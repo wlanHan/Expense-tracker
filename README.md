@@ -12,7 +12,7 @@ npm start
 npm run build
 ```
 
-<h6>This Expense Tracker application is built using React, utilizing the Context API and Hooks for state management. It helps users keep track of their expenses by categorizing them and providing insights into their spending habits</h6>
+<h6>This Expense Tracker application is built using React, utilizing the Context API and Hooks for state management. It helps users keep track of their expenses by categorizing them and providing insights into their spending habits.</h6>
 
 
 <h3>Technologies Used</h3>
